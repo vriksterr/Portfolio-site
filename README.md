@@ -1,6 +1,6 @@
 # Animated Under Construction Template
 
-View the demo [here.](www.vrikster.com)
+View the demo [here.](https://www.vrikster.com)
 ``` 
 Feel free to use this template for your upcoming projects.
 ```
